@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: e977346227a8344078eb15b6a2001910
+  - enabled: 1
+    path: Assets/Scenes/InstructionsMenu.unity
+    guid: a76f68a794e8549fc8de60b80052cdbd
+  - enabled: 1
+    path: Assets/Scenes/OptionsMenu.unity
+    guid: 9b8a94e90878040f48309864bb910e2f
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 5446012b419854111b138ed1d8685752
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 5d67986d512f2488187df5600bd423e1
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: a8485989fbabd4941a02ded0ac55a95e
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 979e2d7740eb5fe4a82638bcf8d37e29
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 316615c28ca43f3499df41a050872b17
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 195ed5c5c9eb54c4ebc7f226e1c0b39d
+  - enabled: 1
+    path: Assets/Scenes/SaveScore.unity
+    guid: 1b63b77e39ffbab4aa3ffe8ea83bfffd
+  - enabled: 1
+    path: Assets/Scenes/Highscores.unity
+    guid: 5a2691423c486ea45add89d9995ebbc2
+  m_configObjects: {}
